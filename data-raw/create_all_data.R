@@ -1,0 +1,12 @@
+setwd("~/bayespop/R/wpps/wpp2022/data-raw")
+
+source("create_locs_data.R")
+source("create_tfr_data.R")
+source("create_e0_data.R")
+source("create_pop_data.R")
+source("create_mx_data.R")
+source("create_mig_data.R")
+source("create_pasfr_data.R")
+source("create_srb_data.R")
+source("create_misc_data.R")
+tools::add_datalist("..", force = TRUE)

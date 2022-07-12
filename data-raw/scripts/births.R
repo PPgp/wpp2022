@@ -1,0 +1,1 @@
+births <- read.delim(file='births.txt', comment.char='#', check.names=FALSE)

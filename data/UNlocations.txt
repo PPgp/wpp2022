@@ -1,0 +1,287 @@
+name	country_code	reg_code	reg_name	area_code	area_name	location_type	tree_level	SortOrder	agcode_1500000	agcode_1501000	agcode_1502000	agcode_1503000	agcode_1517000	agcode_1518000	agcode_1636000	agcode_1637000	agcode_1829000	agcode_1830000	agcode_1831000	agcode_1832000	agcode_1833000	agcode_1834000	agcode_1835000	agcode_1836000	agcode_901000	agcode_902000	agcode_934000	agcode_941000	agcode_948000
+World	900	-1		-1		0	1	1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Sub-Saharan Africa	1834	-1		-1		1834000	3	3	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Northern Africa and Western Asia	1833	-1		-1		1833000	3	4	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Central and Southern Asia	1831	-1		-1		1831000	3	5	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Eastern and South-Eastern Asia	1832	-1		-1		1832000	3	6	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Latin America and the Caribbean	1830	-1		-1		1830000	3	7	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Oceania (excluding Australia and New Zealand)	1835	-1		-1		1835000	3	8	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Australia/New Zealand	1836	-1		-1		1836000	3	9	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Europe and Northern America	1829	-1		-1		1829000	3	10	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+More developed regions	901	-1		-1		901000	3	12	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Less developed regions	902	-1		-1		902000	3	13	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Least developed countries	941	-1		-1		941000	4	14	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Less developed regions, excluding least developed countries	934	-1		-1		934000	4	15	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Less developed regions, excluding China	948	-1		-1		948000	3	16	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Land-locked Developing Countries (LLDC)	1636	-1		-1		1636000	3	17	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Small Island Developing States (SIDS)	1637	-1		-1		1637000	3	18	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+High-income countries	1503	-1		-1		1503000	3	20	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Middle-income countries	1517	-1		-1		1517000	3	21	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Upper-middle-income countries	1502	-1		-1		1502000	4	22	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Lower-middle-income countries	1501	-1		-1		1501000	4	23	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Low-income countries	1500	-1		-1		1500000	3	24	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+No income group available	1518	-1		-1		1518000	3	25	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Africa	903	-1		-1		2	3	27	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Eastern Africa	910	-1		-1		3	4	28	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Burundi	108	910	Eastern Africa	903	Africa	4	5	29	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Comoros	174	910	Eastern Africa	903	Africa	4	5	30	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Djibouti	262	910	Eastern Africa	903	Africa	4	5	31	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Eritrea	232	910	Eastern Africa	903	Africa	4	5	32	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Ethiopia	231	910	Eastern Africa	903	Africa	4	5	33	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Kenya	404	910	Eastern Africa	903	Africa	4	5	34	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Madagascar	450	910	Eastern Africa	903	Africa	4	5	35	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Malawi	454	910	Eastern Africa	903	Africa	4	5	36	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Mauritius	480	910	Eastern Africa	903	Africa	4	5	37	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Mayotte	175	910	Eastern Africa	903	Africa	4	5	38	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Mozambique	508	910	Eastern Africa	903	Africa	4	5	39	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Reunion	638	910	Eastern Africa	903	Africa	4	5	40	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Rwanda	646	910	Eastern Africa	903	Africa	4	5	41	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Seychelles	690	910	Eastern Africa	903	Africa	4	5	42	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Somalia	706	910	Eastern Africa	903	Africa	4	5	43	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+South Sudan	728	910	Eastern Africa	903	Africa	4	5	44	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Uganda	800	910	Eastern Africa	903	Africa	4	5	45	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+United Republic of Tanzania	834	910	Eastern Africa	903	Africa	4	5	46	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Zambia	894	910	Eastern Africa	903	Africa	4	5	47	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Zimbabwe	716	910	Eastern Africa	903	Africa	4	5	48	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Middle Africa	911	-1		-1		3	4	49	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Angola	24	911	Middle Africa	903	Africa	4	5	50	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Cameroon	120	911	Middle Africa	903	Africa	4	5	51	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Central African Republic	140	911	Middle Africa	903	Africa	4	5	52	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Chad	148	911	Middle Africa	903	Africa	4	5	53	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Congo	178	911	Middle Africa	903	Africa	4	5	54	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Democratic Republic of the Congo	180	911	Middle Africa	903	Africa	4	5	55	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Equatorial Guinea	226	911	Middle Africa	903	Africa	4	5	56	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Gabon	266	911	Middle Africa	903	Africa	4	5	57	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Sao Tome and Principe	678	911	Middle Africa	903	Africa	4	5	58	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Northern Africa	912	-1		-1		3	4	59	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Algeria	12	912	Northern Africa	903	Africa	4	5	60	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Egypt	818	912	Northern Africa	903	Africa	4	5	61	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Libya	434	912	Northern Africa	903	Africa	4	5	62	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Morocco	504	912	Northern Africa	903	Africa	4	5	63	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Sudan	729	912	Northern Africa	903	Africa	4	5	64	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	-1	941	948
+Tunisia	788	912	Northern Africa	903	Africa	4	5	65	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Western Sahara	732	912	Northern Africa	903	Africa	4	5	66	-1	-1	-1	-1	-1	1518	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Southern Africa	913	-1		-1		3	4	67	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Botswana	72	913	Southern Africa	903	Africa	4	5	68	-1	-1	1502	-1	1517	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Eswatini	748	913	Southern Africa	903	Africa	4	5	69	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Lesotho	426	913	Southern Africa	903	Africa	4	5	70	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Namibia	516	913	Southern Africa	903	Africa	4	5	71	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+South Africa	710	913	Southern Africa	903	Africa	4	5	72	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Western Africa	914	-1		-1		3	4	73	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Benin	204	914	Western Africa	903	Africa	4	5	74	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Burkina Faso	854	914	Western Africa	903	Africa	4	5	75	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Cabo Verde	132	914	Western Africa	903	Africa	4	5	76	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Cote d'Ivoire	384	914	Western Africa	903	Africa	4	5	77	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Gambia	270	914	Western Africa	903	Africa	4	5	78	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Ghana	288	914	Western Africa	903	Africa	4	5	79	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Guinea	324	914	Western Africa	903	Africa	4	5	80	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Guinea-Bissau	624	914	Western Africa	903	Africa	4	5	81	1500	-1	-1	-1	-1	-1	-1	1637	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Liberia	430	914	Western Africa	903	Africa	4	5	82	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Mali	466	914	Western Africa	903	Africa	4	5	83	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Mauritania	478	914	Western Africa	903	Africa	4	5	84	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Niger	562	914	Western Africa	903	Africa	4	5	85	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Nigeria	566	914	Western Africa	903	Africa	4	5	86	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Saint Helena	654	914	Western Africa	903	Africa	4	5	87	-1	-1	-1	-1	-1	1518	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	934	-1	948
+Senegal	686	914	Western Africa	903	Africa	4	5	88	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Sierra Leone	694	914	Western Africa	903	Africa	4	5	89	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Togo	768	914	Western Africa	903	Africa	4	5	90	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1834	-1	-1	-1	902	-1	941	948
+Asia	935	-1		-1		2	3	91	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Central Asia	5500	-1		-1		3	4	92	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Kazakhstan	398	5500	Central Asia	935	Asia	4	5	93	-1	-1	1502	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Kyrgyzstan	417	5500	Central Asia	935	Asia	4	5	94	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Tajikistan	762	5500	Central Asia	935	Asia	4	5	95	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Turkmenistan	795	5500	Central Asia	935	Asia	4	5	96	-1	-1	1502	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Uzbekistan	860	5500	Central Asia	935	Asia	4	5	97	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Eastern Asia	906	-1		-1		3	4	98	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+China	156	906	Eastern Asia	935	Asia	4	5	99	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	-1
+China, Hong Kong SAR	344	906	Eastern Asia	935	Asia	4	5	100	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	-1
+China, Macao SAR	446	906	Eastern Asia	935	Asia	4	5	101	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	-1
+China, Taiwan Province of China	158	906	Eastern Asia	935	Asia	4	5	102	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	-1
+Dem. People's Republic of Korea	408	906	Eastern Asia	935	Asia	4	5	103	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Japan	392	906	Eastern Asia	935	Asia	4	5	104	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	901	-1	-1	-1	-1
+Mongolia	496	906	Eastern Asia	935	Asia	4	5	105	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Republic of Korea	410	906	Eastern Asia	935	Asia	4	5	106	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Southern Asia	5501	-1		-1		3	4	107	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Afghanistan	4	5501	Southern Asia	935	Asia	4	5	108	1500	-1	-1	-1	-1	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	-1	941	948
+Bangladesh	50	5501	Southern Asia	935	Asia	4	5	109	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	-1	941	948
+Bhutan	64	5501	Southern Asia	935	Asia	4	5	110	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	-1	941	948
+India	356	5501	Southern Asia	935	Asia	4	5	111	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Iran (Islamic Republic of)	364	5501	Southern Asia	935	Asia	4	5	112	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Maldives	462	5501	Southern Asia	935	Asia	4	5	113	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Nepal	524	5501	Southern Asia	935	Asia	4	5	114	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	-1	941	948
+Pakistan	586	5501	Southern Asia	935	Asia	4	5	115	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Sri Lanka	144	5501	Southern Asia	935	Asia	4	5	116	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	1831	-1	-1	-1	-1	-1	-1	902	934	-1	948
+South-Eastern Asia	920	-1		-1		3	4	117	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Brunei Darussalam	96	920	South-Eastern Asia	935	Asia	4	5	118	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Cambodia	116	920	South-Eastern Asia	935	Asia	4	5	119	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	-1	941	948
+Indonesia	360	920	South-Eastern Asia	935	Asia	4	5	120	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Lao People's Democratic Republic	418	920	South-Eastern Asia	935	Asia	4	5	121	-1	1501	-1	-1	1517	-1	1636	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	-1	941	948
+Malaysia	458	920	South-Eastern Asia	935	Asia	4	5	122	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Myanmar	104	920	South-Eastern Asia	935	Asia	4	5	123	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	-1	941	948
+Philippines	608	920	South-Eastern Asia	935	Asia	4	5	124	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Singapore	702	920	South-Eastern Asia	935	Asia	4	5	125	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Thailand	764	920	South-Eastern Asia	935	Asia	4	5	126	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Timor-Leste	626	920	South-Eastern Asia	935	Asia	4	5	127	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	-1	941	948
+Viet Nam	704	920	South-Eastern Asia	935	Asia	4	5	128	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	1832	-1	-1	-1	-1	-1	902	934	-1	948
+Western Asia	922	-1		-1		3	4	129	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Armenia	51	922	Western Asia	935	Asia	4	5	130	-1	-1	1502	-1	1517	-1	1636	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Azerbaijan	31	922	Western Asia	935	Asia	4	5	131	-1	-1	1502	-1	1517	-1	1636	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Bahrain	48	922	Western Asia	935	Asia	4	5	132	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Cyprus	196	922	Western Asia	935	Asia	4	5	133	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Georgia	268	922	Western Asia	935	Asia	4	5	134	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Iraq	368	922	Western Asia	935	Asia	4	5	135	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Israel	376	922	Western Asia	935	Asia	4	5	136	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Jordan	400	922	Western Asia	935	Asia	4	5	137	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Kuwait	414	922	Western Asia	935	Asia	4	5	138	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Lebanon	422	922	Western Asia	935	Asia	4	5	139	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Oman	512	922	Western Asia	935	Asia	4	5	140	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Qatar	634	922	Western Asia	935	Asia	4	5	141	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Saudi Arabia	682	922	Western Asia	935	Asia	4	5	142	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+State of Palestine	275	922	Western Asia	935	Asia	4	5	143	-1	1501	-1	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Syrian Arab Republic	760	922	Western Asia	935	Asia	4	5	144	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Turkiye	792	922	Western Asia	935	Asia	4	5	145	-1	-1	1502	-1	1517	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+United Arab Emirates	784	922	Western Asia	935	Asia	4	5	146	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	934	-1	948
+Yemen	887	922	Western Asia	935	Asia	4	5	147	1500	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1833	-1	-1	-1	-1	902	-1	941	948
+Europe	908	-1		-1		2	3	148	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Eastern Europe	923	-1		-1		3	4	149	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Belarus	112	923	Eastern Europe	908	Europe	4	5	150	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Bulgaria	100	923	Eastern Europe	908	Europe	4	5	151	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Czechia	203	923	Eastern Europe	908	Europe	4	5	152	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Hungary	348	923	Eastern Europe	908	Europe	4	5	153	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Poland	616	923	Eastern Europe	908	Europe	4	5	154	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Republic of Moldova	498	923	Eastern Europe	908	Europe	4	5	155	-1	-1	1502	-1	1517	-1	1636	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Romania	642	923	Eastern Europe	908	Europe	4	5	156	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Russian Federation	643	923	Eastern Europe	908	Europe	4	5	157	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Slovakia	703	923	Eastern Europe	908	Europe	4	5	158	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Ukraine	804	923	Eastern Europe	908	Europe	4	5	159	-1	1501	-1	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Northern Europe	924	-1		-1		3	4	160	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Denmark	208	924	Northern Europe	908	Europe	4	5	161	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Estonia	233	924	Northern Europe	908	Europe	4	5	162	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Faroe Islands	234	924	Northern Europe	908	Europe	4	5	163	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Finland	246	924	Northern Europe	908	Europe	4	5	164	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Guernsey	831	924	Northern Europe	908	Europe	4	5	165	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Iceland	352	924	Northern Europe	908	Europe	4	5	166	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Ireland	372	924	Northern Europe	908	Europe	4	5	167	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Isle of Man	833	924	Northern Europe	908	Europe	4	5	168	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Jersey	832	924	Northern Europe	908	Europe	4	5	169	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Latvia	428	924	Northern Europe	908	Europe	4	5	170	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Lithuania	440	924	Northern Europe	908	Europe	4	5	171	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Norway	578	924	Northern Europe	908	Europe	4	5	172	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Sweden	752	924	Northern Europe	908	Europe	4	5	173	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+United Kingdom	826	924	Northern Europe	908	Europe	4	5	174	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Southern Europe	925	-1		-1		3	4	175	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Albania	8	925	Southern Europe	908	Europe	4	5	176	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Andorra	20	925	Southern Europe	908	Europe	4	5	177	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Bosnia and Herzegovina	70	925	Southern Europe	908	Europe	4	5	178	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Croatia	191	925	Southern Europe	908	Europe	4	5	179	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Gibraltar	292	925	Southern Europe	908	Europe	4	5	180	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Greece	300	925	Southern Europe	908	Europe	4	5	181	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Holy See	336	925	Southern Europe	908	Europe	4	5	182	-1	-1	-1	-1	-1	1518	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Italy	380	925	Southern Europe	908	Europe	4	5	183	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Kosovo (under UNSC res. 1244)	412	925	Southern Europe	908	Europe	4	5	184	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Malta	470	925	Southern Europe	908	Europe	4	5	185	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Montenegro	499	925	Southern Europe	908	Europe	4	5	186	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+North Macedonia	807	925	Southern Europe	908	Europe	4	5	187	-1	-1	1502	-1	1517	-1	1636	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Portugal	620	925	Southern Europe	908	Europe	4	5	188	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+San Marino	674	925	Southern Europe	908	Europe	4	5	189	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Serbia	688	925	Southern Europe	908	Europe	4	5	190	-1	-1	1502	-1	1517	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Slovenia	705	925	Southern Europe	908	Europe	4	5	191	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Spain	724	925	Southern Europe	908	Europe	4	5	192	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Western Europe	926	-1		-1		3	4	193	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Austria	40	926	Western Europe	908	Europe	4	5	194	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Belgium	56	926	Western Europe	908	Europe	4	5	195	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+France	250	926	Western Europe	908	Europe	4	5	196	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Germany	276	926	Western Europe	908	Europe	4	5	197	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Liechtenstein	438	926	Western Europe	908	Europe	4	5	198	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Luxembourg	442	926	Western Europe	908	Europe	4	5	199	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Monaco	492	926	Western Europe	908	Europe	4	5	200	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Netherlands	528	926	Western Europe	908	Europe	4	5	201	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Switzerland	756	926	Western Europe	908	Europe	4	5	202	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Latin America and the Caribbean	904	-1		-1		2	3	203	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Caribbean	915	-1		-1		3	4	204	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Anguilla	660	915	Caribbean	904	Latin America and the Caribbean	4	5	205	-1	-1	-1	-1	-1	1518	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Antigua and Barbuda	28	915	Caribbean	904	Latin America and the Caribbean	4	5	206	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Aruba	533	915	Caribbean	904	Latin America and the Caribbean	4	5	207	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Bahamas	44	915	Caribbean	904	Latin America and the Caribbean	4	5	208	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Barbados	52	915	Caribbean	904	Latin America and the Caribbean	4	5	209	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Bonaire, Sint Eustatius and Saba	535	915	Caribbean	904	Latin America and the Caribbean	4	5	210	-1	-1	-1	-1	-1	1518	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+British Virgin Islands	92	915	Caribbean	904	Latin America and the Caribbean	4	5	211	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Cayman Islands	136	915	Caribbean	904	Latin America and the Caribbean	4	5	212	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Cuba	192	915	Caribbean	904	Latin America and the Caribbean	4	5	213	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Curacao	531	915	Caribbean	904	Latin America and the Caribbean	4	5	214	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Dominica	212	915	Caribbean	904	Latin America and the Caribbean	4	5	215	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Dominican Republic	214	915	Caribbean	904	Latin America and the Caribbean	4	5	216	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Grenada	308	915	Caribbean	904	Latin America and the Caribbean	4	5	217	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Guadeloupe	312	915	Caribbean	904	Latin America and the Caribbean	4	5	218	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Haiti	332	915	Caribbean	904	Latin America and the Caribbean	4	5	219	-1	1501	-1	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	-1	941	948
+Jamaica	388	915	Caribbean	904	Latin America and the Caribbean	4	5	220	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Martinique	474	915	Caribbean	904	Latin America and the Caribbean	4	5	221	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Montserrat	500	915	Caribbean	904	Latin America and the Caribbean	4	5	222	-1	-1	-1	-1	-1	1518	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Puerto Rico	630	915	Caribbean	904	Latin America and the Caribbean	4	5	223	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Saint-Barthelemy	652	915	Caribbean	904	Latin America and the Caribbean	4	5	224	-1	-1	-1	1503	-1	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Saint Kitts and Nevis	659	915	Caribbean	904	Latin America and the Caribbean	4	5	225	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Saint Lucia	662	915	Caribbean	904	Latin America and the Caribbean	4	5	226	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Saint Martin (French part)	663	915	Caribbean	904	Latin America and the Caribbean	4	5	227	-1	-1	-1	1503	-1	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Saint Vincent and the Grenadines	670	915	Caribbean	904	Latin America and the Caribbean	4	5	228	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Sint Maarten (Dutch part)	534	915	Caribbean	904	Latin America and the Caribbean	4	5	229	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Trinidad and Tobago	780	915	Caribbean	904	Latin America and the Caribbean	4	5	230	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Turks and Caicos Islands	796	915	Caribbean	904	Latin America and the Caribbean	4	5	231	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+United States Virgin Islands	850	915	Caribbean	904	Latin America and the Caribbean	4	5	232	-1	-1	-1	1503	-1	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Central America	916	-1		-1		3	4	233	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Belize	84	916	Central America	904	Latin America and the Caribbean	4	5	234	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Costa Rica	188	916	Central America	904	Latin America and the Caribbean	4	5	235	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+El Salvador	222	916	Central America	904	Latin America and the Caribbean	4	5	236	-1	1501	-1	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Guatemala	320	916	Central America	904	Latin America and the Caribbean	4	5	237	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Honduras	340	916	Central America	904	Latin America and the Caribbean	4	5	238	-1	1501	-1	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Mexico	484	916	Central America	904	Latin America and the Caribbean	4	5	239	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Nicaragua	558	916	Central America	904	Latin America and the Caribbean	4	5	240	-1	1501	-1	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Panama	591	916	Central America	904	Latin America and the Caribbean	4	5	241	-1	-1	-1	1503	-1	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+South America	931	-1		-1		3	4	242	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Argentina	32	931	South America	904	Latin America and the Caribbean	4	5	243	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Bolivia (Plurinational State of)	68	931	South America	904	Latin America and the Caribbean	4	5	244	-1	1501	-1	-1	1517	-1	1636	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Brazil	76	931	South America	904	Latin America and the Caribbean	4	5	245	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Chile	152	931	South America	904	Latin America and the Caribbean	4	5	246	-1	-1	-1	1503	-1	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Colombia	170	931	South America	904	Latin America and the Caribbean	4	5	247	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Ecuador	218	931	South America	904	Latin America and the Caribbean	4	5	248	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Falkland Islands (Malvinas)	238	931	South America	904	Latin America and the Caribbean	4	5	249	-1	-1	-1	-1	-1	1518	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+French Guiana	254	931	South America	904	Latin America and the Caribbean	4	5	250	-1	-1	-1	1503	-1	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Guyana	328	931	South America	904	Latin America and the Caribbean	4	5	251	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Paraguay	600	931	South America	904	Latin America and the Caribbean	4	5	252	-1	-1	1502	-1	1517	-1	1636	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Peru	604	931	South America	904	Latin America and the Caribbean	4	5	253	-1	-1	1502	-1	1517	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Suriname	740	931	South America	904	Latin America and the Caribbean	4	5	254	-1	-1	1502	-1	1517	-1	-1	1637	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Uruguay	858	931	South America	904	Latin America and the Caribbean	4	5	255	-1	-1	-1	1503	-1	-1	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Venezuela (Bolivarian Republic of)	862	931	South America	904	Latin America and the Caribbean	4	5	256	-1	-1	-1	-1	-1	1518	-1	-1	-1	1830	-1	-1	-1	-1	-1	-1	-1	902	934	-1	948
+Northern America	905	-1		-1		2	3	257	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Bermuda	60	-1		905	Northern America	4	4	258	-1	-1	-1	1503	-1	-1	-1	1637	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Canada	124	-1		905	Northern America	4	4	259	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Greenland	304	-1		905	Northern America	4	4	260	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Saint Pierre and Miquelon	666	-1		905	Northern America	4	4	261	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+United States of America	840	-1		905	Northern America	4	4	262	-1	-1	-1	1503	-1	-1	-1	-1	1829	-1	-1	-1	-1	-1	-1	-1	901	-1	-1	-1	-1
+Oceania	909	-1		-1		2	3	263	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Australia/New Zealand	927	-1		-1		3	4	264	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Australia	36	927	Australia/New Zealand	909	Oceania	4	5	265	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1836	901	-1	-1	-1	-1
+New Zealand	554	927	Australia/New Zealand	909	Oceania	4	5	266	-1	-1	-1	1503	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	1836	901	-1	-1	-1	-1
+Melanesia	928	-1		-1		3	4	267	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Fiji	242	928	Melanesia	909	Oceania	4	5	268	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+New Caledonia	540	928	Melanesia	909	Oceania	4	5	269	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Papua New Guinea	598	928	Melanesia	909	Oceania	4	5	270	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Solomon Islands	90	928	Melanesia	909	Oceania	4	5	271	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	-1	941	948
+Vanuatu	548	928	Melanesia	909	Oceania	4	5	272	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Micronesia	954	-1		-1		3	4	273	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Guam	316	954	Micronesia	909	Oceania	4	5	274	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Kiribati	296	954	Micronesia	909	Oceania	4	5	275	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	-1	941	948
+Marshall Islands	584	954	Micronesia	909	Oceania	4	5	276	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Micronesia (Fed. States of)	583	954	Micronesia	909	Oceania	4	5	277	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Nauru	520	954	Micronesia	909	Oceania	4	5	278	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Northern Mariana Islands	580	954	Micronesia	909	Oceania	4	5	279	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Palau	585	954	Micronesia	909	Oceania	4	5	280	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Polynesia	957	-1		-1		3	4	281	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+American Samoa	16	957	Polynesia	909	Oceania	4	5	282	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Cook Islands	184	957	Polynesia	909	Oceania	4	5	283	-1	-1	-1	-1	-1	1518	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+French Polynesia	258	957	Polynesia	909	Oceania	4	5	284	-1	-1	-1	1503	-1	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Niue	570	957	Polynesia	909	Oceania	4	5	285	-1	-1	-1	-1	-1	1518	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Samoa	882	957	Polynesia	909	Oceania	4	5	286	-1	1501	-1	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Tokelau	772	957	Polynesia	909	Oceania	4	5	287	-1	-1	-1	-1	-1	1518	-1	-1	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Tonga	776	957	Polynesia	909	Oceania	4	5	288	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948
+Tuvalu	798	957	Polynesia	909	Oceania	4	5	289	-1	-1	1502	-1	1517	-1	-1	1637	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	-1	941	948
+Wallis and Futuna Islands	876	957	Polynesia	909	Oceania	4	5	290	-1	-1	-1	-1	-1	1518	-1	-1	-1	-1	-1	-1	-1	-1	1835	-1	-1	902	934	-1	948

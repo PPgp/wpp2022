@@ -1,0 +1,1 @@
+birthsprojMed <- read.delim(file='birthsprojMed.txt', comment.char='#', check.names=FALSE)
