@@ -33,12 +33,14 @@ The work of the package maintainer is supported by the Eunice Kennedy Shriver Na
 
 ## Installation and usage
 
-As with any GitHub R package, you can install it using the **devtools** package:
+As with any GitHub R package, you can install it using the **devtools** package. In addition, as the package is quite big you might need to increase the timeout for the download:
 
 ```
 library(devtools)
+options(timeout = 600)
 install_github("PPgp/wpp2022")
 ```
+
 
 All datasets described below can be accessed via the function `data()`, e.g. 
 
