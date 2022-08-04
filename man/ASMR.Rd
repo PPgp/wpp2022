@@ -6,6 +6,7 @@
 \alias{mx5dt}
 \alias{mxM1}
 \alias{mxF1}
+\alias{mxB1}
 \alias{mxM5}
 \alias{mxF5}
 
@@ -24,6 +25,7 @@ data(mx5dt) # 5x5
 # wide format
 data(mxM1) # male 1x1
 data(mxF1) # female 1x1
+data(mxB1) # both 1x1
 data(mxM5) # male 5x5
 data(mxF5) # female 5x5
 
