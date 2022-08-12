@@ -208,5 +208,48 @@ All values are in thousands. The following datasets are included:
 \examples{
 data(popproj1dt)
 popproj1dt
+
+data(pop1dt)
+pop1dt
+
+# plot population with 80\% PI for various aggregated areas
+# World, Asia, Africa, Northern America, Europe, Latin America
+locations <- c(900, 935, 903, 905, 908, 904)
+
+# join observed and projected total population
+regpop <- rbind(pop1dt[country_code \%in\% locations], 
+            popproj1dt[country_code \%in\% locations], fill = TRUE)
+
+par(mfrow=c(2,3))
+for(loc in locations) {
+    dat <- regpop[country_code == loc]
+    plot(dat$year, dat$pop, type = "l", col = "red", 
+        ylim = range(dat[, .(pop_80l, pop_80u, pop)], na.rm = TRUE),
+        xlab = "Year", ylab = "Population (in thousand)", main = paste0(dat$name[1], ": population"))
+    lines(dat$year, dat$pop_80l, lty = 2, col = "red") # lower bound
+    lines(dat$year, dat$pop_80u, lty = 2, col = "red") # upper bound
+    legend("topleft", legend = c("median", "80\% PI"), col = "red", lty = c(1, 2), bty = "n")
+}
+
+# potential support ratio (PSR)
+data(popAge1dt, popprojAge1dt)
+
+# join observed and projected age-specific population
+aspop <- rbind(popAge1dt[country_code \%in\% locations], 
+            popprojAge1dt[country_code \%in\% locations], fill = TRUE)
+
+# compute PSR
+psr <- merge(aspop[age > 19 & age < 65, .(`pop20-64` = sum(pop)), by = .(year, country_code, name)],
+             aspop[age >= 65, .(`pop65+` = sum(pop)), by = .(year, country_code, name)], 
+                by = c("year", "country_code", "name")
+             )[, psr := `pop20-64`/`pop65+`]
+# plot
+par(mfrow=c(2,3))
+for(loc in locations) {
+    dat <- psr[country_code == loc]
+    plot(dat$year, dat$psr, type = "l", xlab = "Year", ylab = "Potential support ratio", 
+        main = paste0(dat$name[1], ": PSR"))
+}
+
 }
 \keyword{datasets}

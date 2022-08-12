@@ -51,5 +51,19 @@ data(mxF5) # female 5x5
 \examples{
 data(mx1dt)
 mx1dt
+
+# extract mortality rates for Niger in 2010
+mx <- mx1dt[name == "Niger" & year == 2010]
+
+# print all rows
+print(mx, topn = nrow(mx))
+
+# plot log mx
+plot(mx$age, mx$mxF, col = "red", log = "y", type = "l",
+    xlab = "Age", ylab = "mx", main = "Niger 2010") # female
+lines(mx$age, mx$mxM, col = "blue") # male
+lines(mx$age, mx$mxB) # both
+legend("bottomright", legend = c("female", "male", "both"),
+      col = c("red", "blue", "black"), lty = 1, bty = "n")
 }
 \keyword{datasets}

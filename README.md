@@ -147,9 +147,9 @@ Data from 2022 to 2100.
 These datasets contain age- and sex-specific historical estimates and projections (1950-2100) in one file.
 
 * Long format: 
-	* `mx1dt`: columns _mxM_ (male), _mxF_ (female)
+	* `mx1dt`: columns _mxM_ (male), _mxF_ (female), _mxB_ (both)
 * Wide format:
-	* `mxF1` (female) `mxM1` (male) 
+	* `mxF1` (female), `mxM1` (male), `mxB1` (both) 
 
 ## Migration datasets
 The package contains historical estimates and deterministic projection for total net migration counts (1950-2100) in 1000.

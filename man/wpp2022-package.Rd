@@ -88,8 +88,8 @@ Data from 2022 to 2100.
 \item \bold{Mortality rates}
 These datasets contain age- and sex-specific historical estimates and projections (1950-2100) in one file.
 \itemize{
-\item Long format: \link{mx1dt} (male and female)
-\item Wide format: \link{mxF1} (female), \link{mxM1} (male)
+\item Long format: \link{mx1dt} (male, female, both)
+\item Wide format: \link{mxF1} (female), \link{mxM1} (male), \link{mxB1} (both)
 }
 }
 }
@@ -128,5 +128,20 @@ The package contains historical estimates and deterministic projection for total
  World Population Prospects: The 2022 Revision. \url{http://population.un.org/wpp}.
 }
 
+\examples{
+# plot World population with 80\% PI
+data(pop1dt, popproj1dt)
+
+# join observed and projected data
+world <- rbind(pop1dt[name == "World"], popproj1dt[name == "World"], fill = TRUE)
+plot(world$year, world$pop, type = "l", col = "red", 
+    ylim = range(world[, .(pop_80l, pop_80u, pop)], na.rm = TRUE),
+    xlab = "Year", ylab = "Population", main = "World population (in thousand)")
+lines(world$year, world$pop_80l, lty = 2, col = "red") # lower bound
+lines(world$year, world$pop_80u, lty = 2, col = "red") # upper bound
+legend("topleft", legend = c("median", "80\% PI"), col = "red", lty = c(1, 2), bty = "n")
+
+# See more examples in ?pop
+}
 
 \keyword{ package }

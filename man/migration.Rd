@@ -49,7 +49,17 @@ data(migration)  # 5-year; legacy
 }
 
 \examples{
-data(migration5)
-str(migration5)
+data(migration1)
+
+# select records for the US
+subset(migration1, country_code == 840)
+
+# select records where the name contains the word "America"
+subset(migration1, grepl("America", name, fixed = TRUE))
+
+# in long format
+# select migration for the US for years between 2000 and 2021
+data(migration1dt)
+migration1dt[country_code == 840 & year >= 2000 & year <= 2021]
 }
 \keyword{datasets}

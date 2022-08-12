@@ -1,3 +1,7 @@
+1.1-2 (8/12/2022)
+------
+Added examples to the migration, mortality, population and main package help files.
+
 1.1-1 (8/04/2022)
 ------
 Added mxB into the mx1dt dataset.
