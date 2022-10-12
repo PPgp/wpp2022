@@ -2,6 +2,8 @@
 ------
 The 5-year wide migration dataset has periods as column names instead of years. 
 
+Added country name to the dataset popproj5dt.
+
 1.1-2 (8/12/2022)
 ------
 Added examples to the migration, mortality, population and main package help files.
