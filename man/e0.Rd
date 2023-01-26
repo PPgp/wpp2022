@@ -32,6 +32,8 @@
 \alias{e0Fproj95u}
 \alias{e0F_supplemental}
 \alias{e0M_supplemental}
+\alias{e0F_supplemental1}
+\alias{e0M_supplemental1}
 \docType{data}
 \title{
 United Nations Time Series of Life Expectancy
@@ -74,8 +76,10 @@ data(e0Mproj95l) # lower 95\%; male
 data(e0Mproj95u) # upper 95\%; male
 
 # pre-1950 data
-data(e0F_supplemental)
-data(e0M_supplemental)
+data(e0F_supplemental)   # 5-year; female
+data(e0M_supplemental)   # 5-year; male
+data(e0F_supplemental1)  # annual; female
+data(e0M_supplemental1)  # annual; male
 }
 
 \format{

@@ -1,3 +1,9 @@
+1.1-4 (01/26/2023)
+------
+e0M_supplemental and e0F_supplemental contained (by mistake) annual data.
+Thus, they were moved to e0M_supplemental1 and e0F_supplemental1 and 
+replaced with corresponding 5-year versions.
+
 1.1-3 (10/12/2022)
 ------
 The 5-year wide migration dataset has periods as column names instead of years. 

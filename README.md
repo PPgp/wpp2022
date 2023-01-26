@@ -134,7 +134,7 @@ Data from 2022 to 2100.
 	* `e01dt`: columns _e0M_ (male), _e0F_ (female), _e0B_ (combined sexes)
 * Wide format:
 	* `e0F1` (female), `e0M1` (male), `e0B1` (combined sexes)
-	* Pre-1950 5-year: `e0M_supplemental`, `e0F_supplemental`
+	* Pre-1950 5-year: `e0M_supplemental`, `e0F_supplemental` (5-year), `e0M_supplemental1`, `e0F_supplemental1` (annual)
 
 #### Projections
 * Long format: 

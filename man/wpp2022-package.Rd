@@ -83,7 +83,7 @@ Data from 2022 to 2100.
 \item Long format: \link{e0proj1dt} (all sexes; median and all probabilistic bounds)
 \item Median in wide format: \link{e0Fproj1} (female), \link{e0Mproj1} (male), \link{e0Bproj1} (both) 
 }
-\item Pre-1950 estimates: \link{e0F_supplemental}, \link{e0M_supplemental}
+\item Pre-1950 estimates: \link{e0F_supplemental}, \link{e0M_supplemental} (5-year), \link{e0F_supplemental1}, \link{e0M_supplemental1} (1-year)
 }
 \item \bold{Mortality rates}
 These datasets contain age- and sex-specific historical estimates and projections (1950-2100) in one file.
