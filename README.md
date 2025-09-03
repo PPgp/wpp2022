@@ -170,7 +170,7 @@ Other indicators are available in the miscellaneous dataset, such as births- and
 * `misc1dt` (historical estimates), `miscproj1dt` (projections). Both datasets contain the following columns:
 	* _births_ : number of births in 1000
 	* _cbr_ : number of live births per 1,000 population
-	* _deaths_ : number of births in 1000
+	* _deaths_ : number of deaths in 1000
 	* _cdr_ : number of deaths per 1,000 population
 	* _growthrate_ : annual rate of population change (as %)
  
